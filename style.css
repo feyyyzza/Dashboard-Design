@@ -520,7 +520,7 @@ main .recent-orders a{
     font-weight: 600;
 }
 
-/* ========== MEDYA SORGULAMA ========== */
+/* ========== Media Query Bölümü ========== */
 @media screen and (max-width:1200px) {
     .container{
         width: 94%;
@@ -572,7 +572,7 @@ main .recent-orders a{
     }
 }
 
-/* ========== MEDYA SORGULAMA ==========*/
+/* ========== Media Query Bölümü Sonu ==========*/
 @media screen and (max-width:768px) {
     .container{
         width: 100%;
