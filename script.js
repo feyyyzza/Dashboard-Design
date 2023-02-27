@@ -8,6 +8,10 @@ menuBtn.addEventListener('click', () => {
     sideMenu.style.display = 'block';
 }) 
 
+// kenar çubuğunu kapatıyoruz //
+closeBtn.addEventListener('click', () => {
+    sideMenu.style.display = 'none';
+})
 
 // tema değiştirme //
 themeToggler.addEventListener('click', () => {
