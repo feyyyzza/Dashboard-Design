@@ -52,3 +52,13 @@ In CSS codes, we have created interpretation lines in most places as you can see
     main{
     margin-top: 1.4rem;
     }
+    
+<h3>View of the website in Light mode ☀️☀️</h3>
+
+![ss1](https://user-images.githubusercontent.com/86704802/221576873-e2c577ae-ae5b-419c-a370-89530b339557.png)
+
+<h3>View of the website in Dark mode 🌙🌙</h3>
+
+![ss2](https://user-images.githubusercontent.com/86704802/221576896-918cd391-a799-4a5c-b843-77b9d8304458.png)
+
+    
